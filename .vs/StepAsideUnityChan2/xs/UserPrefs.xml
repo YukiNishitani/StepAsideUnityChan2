@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{76733347-DB8F-50E9-5947-6114EB0EBFF1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OverItemDestroyer.cs">
+    <Files>
+      <File FileName="Assets/UnityChanController.cs" Line="157" Column="1" />
+      <File FileName="Assets/MyCameraController.cs" Line="26" Column="1" />
+      <File FileName="Assets/CoinController.cs" Line="15" Column="40" />
+      <File FileName="Assets/ItemGenerator.cs" Line="49" Column="2" />
+      <File FileName="Assets/OverItemDestroyer.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StepAsideUnityChan2 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
